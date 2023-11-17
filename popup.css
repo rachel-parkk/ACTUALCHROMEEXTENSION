@@ -1,0 +1,24 @@
+body {
+    width: 300px;
+    height: 1000x;
+  }
+  
+  input, button {
+    width: 200px;
+    margin: 5px;
+  }
+  
+  #countdown-section, #link-section {
+    margin-top: 10px;
+  }
+  
+  #countdown-display {
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  #link-section {
+    margin-bottom: 10px;
+  }
+  
