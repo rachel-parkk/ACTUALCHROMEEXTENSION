@@ -6,6 +6,7 @@
     "permissions": [ "tabs",
     "webRequest",
     "webRequestBlocking",
+    "webNavigation",
     "storage",
     "activeTab",
     "*://*/*"],
